@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🛡️ yzyunzhang | IAM Expert & AI Coding Pioneer
 
-<!--
-**yzyunzhang/yzyunzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"Identity is the perimeter; AI is the engine."**
+> 
+> 我是一名深耕 **IAM (身份与访问管理)** 领域多年的安全专家，目前正全力投入 **AI Coding** 浪潮。我致力于探索如何利用生成式 AI 重塑研发范式，并在复杂的安全架构中实现生产力的指数级跳跃。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🦾 AI Coding & 研发范式演进
+
+作为 **AI 浪潮的追赶者与实践者**，我专注于：
+* **AI 驱动开发**: 深度集成 AI 工作流，探索从传统编码向“架构设计+模型调优”的研发转型。
+* **智能体编排**: 利用 AI Agent 自动化处理复杂的安全合规检查与代码审计流。
+* **Vibe Coding 实践**: 倡导以逻辑抽象为核心，利用 AI 快速从 0 到 1 构建高可靠性的系统原型。
+* **组织心理学**: 关注 AI 浪潮下技术团队的组织变革与个人效能边界。
+---
+
+## 🔐 IAM & 网络安全专长
+
+在身份治理领域拥有深厚积淀，坚持“安全即代码”的实战哲学：
+* **领域深耕**: 长期从事 **IGA (身份治理)**、零信任架构、以及复杂权限模型 (**RBAC/ABAC**) 的设计与落地。
+* **协议专家**: 深度掌握 OAuth2.0, OIDC, SAML, 以及无密码认证协议 (FIDO2)。
+* **安全底座**: 专注于构建“可用不可见”的隐私保护架构，确保 AI 时代的身份数据安全。
+
+---
+
+## 🛠️ The Polyglot Toolkit
+
+我擅长在不同业务场景下灵活切换技术栈，以实现工程与安全的最优解：
+
+| 语言/领域 | 核心应用 |
+| :--- | :--- |
+| **Java** | 构建高性能、可扩展的企业级 IAM 微服务集群 |
+| **Golang** | 开发云原生安全组件、高性能访问控制网关与中间件 |
+| **Python** | 驱动 AI 任务、安全自动化脚本及大模型 (LLM) 应用集成 |
+
+---
